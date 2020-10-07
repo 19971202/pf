@@ -5,10 +5,6 @@
       <div id="eyecatch">
         <p>その気持ちあなただけじゃない</p>
       </div>
-      <div id="about">
-        <h2 class="section-title">About</h2>
-
-      </div>
       <div id="service" class="wrap">
         <h2 class="section-title">Service</h2>
         <div class="flex-around">
